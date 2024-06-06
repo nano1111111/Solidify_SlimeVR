@@ -2,6 +2,7 @@
 # Solidify SlimeVR Tracker
 
 Inspired by the Hyperion SlimeVR tracker.
+
 I have designed it with a fitting case so you can order all the parts and assemble it directly.
 
 
