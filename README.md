@@ -74,7 +74,9 @@ JST 2.0 header
     This is the easiest component to solder. Simply drop it in and solder, but be mindful of the polarity as marked on the PCB.
 
 ----
-- **Step 7** 
+- **Step 7**
+
+
 The case is a three-part assembly consisting of the case itself, a PCB and battery separator called the tray, and the lid.
 - Start with the tray and place the battery in the designated space at the bottom.
 - Insert the tray into the case with the battery leads in the upper right corner (when the case's ports and switch are facing you).
