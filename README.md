@@ -57,26 +57,21 @@ Take out the PCB and solder to it for ease of assembly the resistor to the slot 
 - **Step 6**
 
 Wemos D1 mini
- 
-    Press the Wemos D1 Mini into its designated area on the PCB. Solder only one pin initially to make it easier to ensure the board is flat before soldering the rest.
+ * Press the Wemos D1 Mini into its designated area on the PCB. Solder only one pin initially to make it easier to ensure the board is flat before soldering the rest.
 
 
 BMI160 / BMI270
-
-    Do the same as above with the Wemos D1 Mini, the space on the PCB for the IMU is directly in the middle, but please make sure that the IMU is soldered as flat as possible for the best tracking results.
+* Do the same as above with the Wemos D1 Mini, the space on the PCB for the IMU is directly in the middle, but please make sure that the IMU is soldered as flat as possible for the best tracking results.
 
 TP4056
-  
-    As with the TP4056 board, making sure that it allings rather perfectly with the silkscreen marking on the PCB is not easy but necessary as you will have problems charging the tracker with a lid on the case. So please take as much time as needed to ensure best functionality.
+*  As with the TP4056 board, making sure that it allings rather perfectly with the silkscreen marking on the PCB is not easy but necessary as you will have problems charging the tracker with a lid on the case. So please take as much time as needed to ensure best functionality.
 
 JST 2.0 header
     
-    This is the easiest component to solder. Simply drop it in and solder, but be mindful of the polarity as marked on the PCB.
+*  This is the easiest component to solder. Simply drop it in and solder, but be mindful of the polarity as marked on the PCB.
 
 ----
-- **Step 7**
-
-
+- **Step 7** 
 The case is a three-part assembly consisting of the case itself, a PCB and battery separator called the tray, and the lid.
 - Start with the tray and place the battery in the designated space at the bottom.
 - Insert the tray into the case with the battery leads in the upper right corner (when the case's ports and switch are facing you).
