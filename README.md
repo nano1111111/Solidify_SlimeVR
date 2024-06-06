@@ -83,9 +83,9 @@ You may need to change the I²C address in the firmware. Use the web firmware fl
 ## Extensiontracker
 There is a hole in the back of one of the case versions for a 2nd IMU for tracking, the wires can be soldered onto the respectivly named pads on the PCB.
 
-It is however completly optional and not strictly necessary for the tracker to function properly, if you do use it however please change settings accordingly when going through the flashing procedure
+It is however completly optional and not strictly necessary for the tracker to function properly, if you do use it however please change settings accordingly when going through the flashing procedure.
 
 
 ## Strap
-You can use 50mm elastic fabric band for the straps, I suggest you use buckles for the hip and chest tracker
+You can use 50mm elastic fabric band for the straps, I suggest you use buckles for the hip and chest tracker.
 
