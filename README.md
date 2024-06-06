@@ -9,7 +9,7 @@ I have designed it with a fitting case so you can order all the parts and assemb
 
 
 ## Parts list
-- Wemos D1 mini ESP8266, (referably USB-C)
+- Wemos D1 mini ESP8266
 - commercially available TP4056 boards
 - 180K Resistors
 - 1N5817 diode
