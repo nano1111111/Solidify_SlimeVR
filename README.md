@@ -1,7 +1,7 @@
 
 # Solidify SlimeVR Tracker
 
-This is for the Solidify PCB which has been inspired by the Hyperion SlimeVR tracker.
+Inspired by the Hyperion SlimeVR tracker.
 I have designed it with a fitting case so you can order all the parts and assemble it directly.
 
 
