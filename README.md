@@ -14,7 +14,7 @@ I have designed it with a fitting case so you can order all the parts and assemb
 - 180K Resistors
 - 1N5817 diode
 - 12D06 switch
-- BMI160 /BMI270 IMU
+- BMI160
 - 503450 Li-Po Polymer battery
 - JST 2.0 header (optional)
 - Header pins
@@ -61,7 +61,7 @@ Wemos D1 mini
  * Press the Wemos D1 Mini into its designated area on the PCB. Solder only one pin initially to make it easier to ensure the board is flat before soldering the rest.
 
 
-BMI160 / BMI270
+BMI160
 * Do the same as above with the Wemos D1 Mini, the space on the PCB for the IMU is directly in the middle, but please make sure that the IMU is soldered as flat as possible for the best tracking results.
 
 TP4056
