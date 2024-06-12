@@ -31,7 +31,7 @@ A step by step guide on how to assemble the tracker
     Solder
     Wemos D1 mini
     TP4056 Boards
-    BMI160 / BMI270
+    BMI160 
     12D06 Switches
     503450 Li-Po Battery
     Header Pins 
