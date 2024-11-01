@@ -44,7 +44,7 @@ To assist with this, I suggest using a breadboard. Cut the edge off one side of 
 
 ---
 - **Step 3**
-Do the same for the IMU you bought. Place it as desired on the breadboard, but ensure the header pins are on the side opposite the main components.
+Do the same for the IMU you bought. Place it as desired on the breadboard, but ensure the header pins are on the side opposite of the main components.
 
 ---
 - **Step 4**
