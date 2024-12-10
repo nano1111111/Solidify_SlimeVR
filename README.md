@@ -14,7 +14,7 @@ I have designed it with a fitting case so you can order all the parts and assemb
 - 180K Resistors
 - 1N5817 diode
 - 12D06 switch
-- BMI160
+- BMI160 pinout compatible board (BMI160/270, LSM6DSO, ICM-45686)
 - 503450 Li-Po Polymer battery
 - JST 2.0 header (optional)
 - Header pins
