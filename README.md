@@ -78,13 +78,10 @@ The case is a three-part assembly consisting of the case itself, a PCB and batte
 - Insert the tray into the case with the battery leads in the upper right corner (when the case's ports and switch are facing you).
 - Insert the assembled PCB into the case, ensuring the USB port of the Wemos D1 Mini does not obstruct the placement.
 - Finally, place the lid. It may require some force or minor adjustments by trimming plastic for a proper fit.
+  
 ## Flashing
 
 You may need to change the I²C address in the firmware. Use the web firmware flasher available here "https://slimevr-firmware.bscotch.ca/". The tool is straightforward to use. However, avoid clicking on any video links on the page as they will lead to a rickroll (seriously).
-## Extensiontracker
-There is a hole in the back of one of the case versions for a 2nd IMU for tracking, the wires can be soldered onto the respectivly named pads on the PCB.
-
-It is however completly optional and not strictly necessary for the tracker to function properly, if you do use it however please change settings accordingly when going through the flashing procedure.
 
 
 ## Strap
